@@ -1,5 +1,5 @@
 ---
-title: "MB5370 Module 04. Workshop 2 - End to end data analysis in R using QFISH"
+title: "MB5370 Module 04. Assignment 2 - End to end data analysis in R using QFISH"
 author: "Shreyash G Bhandary"
 date: "2024-05-30"
 output:
