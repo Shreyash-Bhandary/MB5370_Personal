@@ -36,8 +36,8 @@ New_NEM_Data |>
     names_to = "energy",
     values_to = "values") %>%
 ggplot(aes(x = Year, y = values, fill = energy)) +
-geom_bar(position = "dodge", stat = "identity")
-
+geom_bar(position = "dodge", stat = "identity") + 
+theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
 ```
 
 ```{r}
